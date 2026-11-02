@@ -1,0 +1,14 @@
+{
+  "name": "pollinations-canvas-mcp",
+  "version": "1.0.0",
+  "description": "Model Context Protocol (MCP) server for Pollinations Agents: Procedural canvas rendering, image composition, and visual asset layout tools.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^0.6.0"
+  }
+}
